@@ -1,3 +1,3 @@
 # Hello-World
 Just another repository
-# the first repository of lfj
+the first repository of lfj
